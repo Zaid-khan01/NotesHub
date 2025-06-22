@@ -5,9 +5,7 @@ A modern platform for students to **access, browse, and download** academic note
 
 ## Demo
 
-[Click here to visit the live site](https://your-vercel-site.vercel.app)
-
-Insert gif or link to demo
+[Click here to visit the live site](https://notes-hub-nu.vercel.app)
 
 
 ## 🌟 Features
